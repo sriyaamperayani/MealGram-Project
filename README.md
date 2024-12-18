@@ -96,19 +96,19 @@ Non-trainable params: 2,257,984
 The model has been tested on various food items through the Gradio interface, demonstrating robust performance across different food categories:
 
 1. **Mac and Cheese Detection**
-   ![Mac and Cheese Detection](infer-1.png)
+   ![Mac and Cheese Detection](MODEL-INFERENCES-IMAGES/infer-1.png)
    - Successfully identified mac and cheese in a bowl
    - Clean prediction with high confidence
    - Interface shows predicted food type and estimated calories
 
 2. **Pizza Detection**
-   ![Pizza Detection](infer-2.png)
+   ![Pizza Detection](MODEL-INFERENCES-IMAGES/infer-2.png)
    - Accurately recognized a pizza with toppings
    - Demonstrated ability to handle complex food items with multiple ingredients
    - Clear visualization of the prediction interface
 
 3. **Hamburger Detection**
-   ![Hamburger Detection](infer-3.png)
+   ![Hamburger Detection](MODEL-INFERENCES-IMAGES/infer-3.png)
    - Correctly identified a hamburger with multiple layers
    - Showed robustness in handling composed food items
    - Accurate calorie estimation for multi-component foods
