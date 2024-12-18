@@ -149,12 +149,24 @@ python app.py
 
 3. Upload a food image through the Gradio interface to get calorie estimation.
 
+## Important URLS
+
+Hugging Space URL
+https://huggingface.co/spaces/vmjs1412/DM-Final-Project-Calorie-Estimator
+
+Kaggle data set URL
+https://www.kaggle.com/datasets/dansbecker/food-101
+
+Google Colab URL
+
+
 ## Future Improvements
 1. Expand the dataset to include more food categories
 2. Implement portion size estimation
 3. Add nutritional information beyond calories
 4. Enhance model robustness through additional data augmentation
 5. Develop mobile application for easier access
+
 
 ## Contributors
 Lakshmi Sriya Amperayani
