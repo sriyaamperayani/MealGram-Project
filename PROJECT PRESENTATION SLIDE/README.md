@@ -11,3 +11,6 @@ This directory contains the presentation materials for the MealGram project.
   - Model architecture and methodology
   - Results and performance metrics
   - Demo screenshots and visualizations
+ 
+Presentation Link
+https://docs.google.com/presentation/d/1V842X6o33YDNyKAOg8TlbBxkSQFHObhPFtuufNrNUeQ/edit?usp=sharing
