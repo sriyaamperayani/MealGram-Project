@@ -177,6 +177,9 @@ https://colab.research.google.com/drive/1kUMnF3t1LBc_sIk7DxoGiftW7PD-xbHn?usp=sh
 Ablation Studies Colab URL
 https://colab.research.google.com/drive/122QYcgaAEBUcWkoH7RCLCsJL_jgAjsJC?usp=sharing
 
+Kaggle Data Set URL
+https://www.kaggle.com/datasets/dansbecker/food-101
+
 
 ## Future Improvements
 1. Expand the dataset to include more food categories
