@@ -1,4 +1,4 @@
-# MealGram:A convolutional neural network (CNN) powered Image-Based Food Calorie Estimator
+# MealGram : A convolutional neural network (CNN) powered Image-Based Food Calorie Estimator
 
 ## HUGGING FACE SPACES MODEL DEPLOYMENT LINK WITH UI - [hugging-space-url](https://huggingface.co/spaces/vmjs1412/DM-Final-Project-Calorie-Estimator)
 
