@@ -21,3 +21,6 @@ These files are used by the main Colab notebooks to:
 2. Map food categories to calorie information
 3. Configure data preprocessing parameters
 4. Store dataset metadata for reproducibility
+
+Kaggle data set URL
+https://www.kaggle.com/datasets/dansbecker/food-101
