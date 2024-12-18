@@ -1,5 +1,14 @@
 # MealGram : A convolutional neural network (CNN) powered Image-Based Food Calorie Estimator
 
+# TEAM NAME - Resilient Routes
+
+## Contributors
+Lakshmi Sriya Amperayani
+
+Jayasurya Murali
+
+Veera Venkata Vijaya Subhash
+
 ## HUGGING FACE SPACES MODEL DEPLOYMENT LINK WITH UI - [hugging-space-url](https://huggingface.co/spaces/vmjs1412/DM-Final-Project-Calorie-Estimator)
 
 ## Project Overview
@@ -177,11 +186,6 @@ https://colab.research.google.com/drive/122QYcgaAEBUcWkoH7RCLCsJL_jgAjsJC?usp=sh
 5. Develop mobile application for easier access
 
 
-## Contributors
-Lakshmi Sriya Amperayani
 
-Jayasurya Murali
-
-Veera Venkata Vijaya Subhash
 
 
