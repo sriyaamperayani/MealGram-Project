@@ -1,6 +1,6 @@
 # MealGram: AI-powered Image-Based Food Calorie Estimator
 
-## HUGGING FACE SPACES MODEL DEPLOYMENT LINK WITH UI - ![hugging-space-url](https://huggingface.co/spaces/vmjs1412/DM-Final-Project-Calorie-Estimator)
+## HUGGING FACE SPACES MODEL DEPLOYMENT LINK WITH UI - [hugging-space-url](https://huggingface.co/spaces/vmjs1412/DM-Final-Project-Calorie-Estimator)
 
 ## Project Overview
 MealGram is an advanced machine learning system that estimates calorie content from food images, making calorie tracking more accessible and user-friendly. The project follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology.
