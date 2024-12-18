@@ -19,6 +19,9 @@ Main Colab: https://colab.research.google.com/drive/1kUMnF3t1LBc_sIk7DxoGiftW7PD
 
 Ablation Studies: https://colab.research.google.com/drive/122QYcgaAEBUcWkoH7RCLCsJL_jgAjsJC?usp=sharing
 
+## Video Demo
+https://youtu.be/eL6LcxXEnBg
+
 ## CRISP-DM Implementation
 
 ### 1. Business Understanding
@@ -180,7 +183,8 @@ https://colab.research.google.com/drive/122QYcgaAEBUcWkoH7RCLCsJL_jgAjsJC?usp=sh
 Presentation Link
 https://docs.google.com/presentation/d/1V842X6o33YDNyKAOg8TlbBxkSQFHObhPFtuufNrNUeQ/edit?usp=sharing
 
-
+Video Demo Link
+https://youtu.be/eL6LcxXEnBg
 
 
 ## Future Improvements
