@@ -115,7 +115,7 @@ The model has been tested on various food items through the Gradio interface, de
   
 4. **Hugging Face Demo**
      ![Hugging Face Deployment Demo](MODEL-INFERENCES-IMAGES/hug-face-1.png)
-     ![Hugging Face Deployment Project Files](hug-face-2.png)
+     ![Hugging Face Deployment Project Files](MODEL-INFERENCES-IMAGES/hug-face-2.png)
    
 
 These inference results showcase the model's capability to:
