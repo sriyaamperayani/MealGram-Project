@@ -177,8 +177,11 @@ https://colab.research.google.com/drive/1kUMnF3t1LBc_sIk7DxoGiftW7PD-xbHn?usp=sh
 Ablation Studies Colab URL
 https://colab.research.google.com/drive/122QYcgaAEBUcWkoH7RCLCsJL_jgAjsJC?usp=sharing
 
-Kaggle Data Set URL
-https://www.kaggle.com/datasets/dansbecker/food-101
+Presentation Link
+https://docs.google.com/presentation/d/1V842X6o33YDNyKAOg8TlbBxkSQFHObhPFtuufNrNUeQ/edit?usp=sharing
+
+
+presentation link
 
 
 ## Future Improvements
