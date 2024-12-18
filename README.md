@@ -111,6 +111,11 @@ The model has been tested on various food items through the Gradio interface, de
    - Correctly identified a hamburger with multiple layers
    - Showed robustness in handling composed food items
    - Accurate calorie estimation for multi-component foods
+  
+4. **Hugging Face Demo**
+     ![Hugging Face Deployment Demo](hug-face-1.png)
+     ![Hugging Face Deployment Project Files](hug-face-2.png)
+   
 
 These inference results showcase the model's capability to:
 - Handle different food presentations
